@@ -1,5 +1,5 @@
 ### 如果你想要学习算法请点击[这里](https://github.com/symbolXu/algorithmsAndDataStructures)
-### 如果你想要学习数据结构请点击[这里](https://github.com/symbolXu/designPattern)
+### 如果你想要学习设计模式请点击[这里](https://github.com/symbolXu/designPattern)
 <!--
 **symbolXu/symbolXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
